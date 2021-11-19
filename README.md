@@ -1,0 +1,2 @@
+# simpleChattyBot
+JetBrains Academy Project
